@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+.container {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+.auth, .upload {
+  margin-top: 20px;
+}
+
+input, button {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+#image-gallery img {
+  max-width: 100%;
+  margin: 10px 0;
+}
